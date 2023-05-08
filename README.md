@@ -6,9 +6,9 @@
 
     
 ```
-“I wanted the reward and not the struggle.I wanted the result and not the process.I was in love not with the fight but only the victory. 
- And life doesn't work that way.”
-                                                                                                                            -Mark Manson
+“I wanted the reward and not the struggle.I wanted the result and not the process.I was in love not with the fight but only
+the victory.And life doesn't work that way.”
+                                                                                                               -Mark Manson
  ```   
 - Reach me at **samarthmishra291@gmail.com**
 - Know about my experience: [Resume](https://drive.google.com/file/d/1bv1AgoNfTTbeNH4d3Z9WerAE3phKSCMj/view?usp=sharing)
