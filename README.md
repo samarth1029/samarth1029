@@ -2,7 +2,14 @@
     <img src="https://komarev.com/ghpvc/?username=samarth1029&label=Profile%20views&color=0e75b6&style=plastic" alt="samarth1029" />
     <a href="https://www.linkedin.com/in/samarth-mishra-96013821a/" target="blank"><img src="https://img.shields.io/badge/Linkedin-0e76a8?      style=plastic&logo=Linkedin&logoColor=white" alt="Samarth Mishra" />
 </p>
+    
 
+    
+```
+“I wanted the reward and not the struggle.I wanted the result and not the process.I was in love not with the fight but only the victory. 
+ And life doesn't work that way.”
+                                                                                                                            -Mark Manson
+ ```   
 - Reach me at **samarthmishra291@gmail.com**
 - Know about my experience: [Resume](https://drive.google.com/file/d/1bv1AgoNfTTbeNH4d3Z9WerAE3phKSCMj/view?usp=sharing)
     
