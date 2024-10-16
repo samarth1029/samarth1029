@@ -10,7 +10,7 @@
  only the victory.And life doesn't work that way.”
                                                                                                           -Mark Manson
  ```   
-- Reach me at **samarthmishra291@gmail.com**
+- Reach me at **samarthmishra291.work@gmail.com**
 - Know about my experience: [Resume](https://drive.google.com/file/d/1k1SzpSNovW3tlNWMrmylBOHog6QyqmVt/view?usp=sharing)
     
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarth1029" alt="samarth1029"/></a> </p>
