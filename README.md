@@ -1,20 +1,11 @@
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=samarth1029&label=Profile%20views&color=0e75b6&style=plastic" alt="samarth1029" />
-    <a href="https://www.linkedin.com/in/samarth-mishra-96013821a/" target="blank"><img src="https://img.shields.io/badge/Linkedin-0e76a8?      style=plastic&logo=Linkedin&logoColor=white" alt="Samarth Mishra" />
-</p>
-    
-
-    
 ```
 “I wanted the reward and not the struggle.I wanted the result and not the process.I was in love not with the fight but 
  only the victory.And life doesn't work that way.”
                                                                                                           -Mark Manson
  ```   
 - Reach me at **samarthmishra291.work@gmail.com**
-- Know about my experience: [Resume](https://drive.google.com/file/d/1joQ-sxW_arSv_v_1ejotZdnXs4_Fuh8l/view?usp=sharing)
-    
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarth1029" alt="samarth1029"/></a> </p>
-
+- Know about my experience: [Resume](https://drive.google.com/file/d/1H6bEJb_GffBrxY7NbQyTfOmsIcn8it2p/view?usp=drive_link)
+- LinkedIn: [samarth-mishra](https://www.linkedin.com/in/samarth-mishra-96013821a/)
 
 ## Technical Skills
 
@@ -92,17 +83,6 @@
   I love applying software engineering principles to whatever I lay my hands over and it's oddly satisfying. My specialties include quickly learning new skills and programming languages, problem solving, software design principles and SOLID principles of organizing code. So far I have C, C++, HTML, CSS, Django, OpenCV, Python, SQL, GCP, Selenium, CI/CD, Docker, Machine Learning and Git/GitHub under my belt. Being a Computer Science and Engineering undergrad at National Institute of Technology, Rourkela, I aspire to excel both academically and professionally thereby acquiring a sound knowledge in this domain. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head.
 
   The fact that human beings are outnumbered by Internet devices today made me realize the unexplored ocean of potentials that computers possess.
-</p>
-
-
-## Github Stats
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarth1029&show_icons=true&locale=en&layout=compact" alt="samarth1029" /></p>
-
-<p>
-  &nbsp;<img align="left" src="https://streak-stats.demolab.com/?user=samarth1029&theme=holi-theme"alt="samarth1029"/>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarth1029&show_icons=true&theme=radical" alt="samarth1029"/>
 </p>
 
 
